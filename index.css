@@ -1,0 +1,68 @@
+body{
+    margin-left: 10px;
+}
+
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p{
+    margin-top: 10px;
+}
+
+.copyright{
+    margin-top: 1px;
+}
+
+.root1{
+    /* left: 50%;
+    right: 50%;
+    transform: translate(-50%,-50%);
+    position:absolute;
+    margin: 50px; */
+    margin-left: 38%;
+}
+
+.algo{
+    margin-top:40px;
+    font-size: 18px;
+}
+
+.code{
+    color: #660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+span{
+    color: rgb(0, 0, 255);
+}
+
+.white{
+    font-size: 16px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.color li{
+    color: blue;
+    /* font-family: Verdana, Arial, Helvetica, sans-serif; */
+    font-size: 19px;    
+}
+
+.color span{
+    color: black;
+    font-size: 15px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+th{
+    padding:4px;
+}
+
+td{
+    padding:4px ;
+}
+
+.space{
+    width: 44px;
+}
